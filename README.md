@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorsamines&label=Profile%20views&color=0e75b6&style=flat" alt="victorsamines" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Node.js, Sequelize y Vue.js**
+- 🌱 Actualmente estoy aprendiendo más a profundidad **Node.js, Sequelize y Vue.js**
 
 - 📫 Como contactarme **saminesvictor@gmail.com**
 
